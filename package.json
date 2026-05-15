@@ -1,0 +1,13 @@
+{
+  "name": "hls-proxy",
+  "version": "1.0.0",
+  "description": "HLS proxy and scraper API",
+  "main": "express.js",
+  "scripts": {
+    "start": "node express.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.0"
+  }
+}
